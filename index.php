@@ -128,7 +128,7 @@
 		*/
 var abc;
 
-                var username,password;
+var test;                var username,password;
                 
                 username = document.getElementById("username").value;
                 password = document.getElementById("password").value;
