@@ -124,6 +124,10 @@
         <script type="text/javascript">
             function loginvalidate()
             {
+               /*
+		*/
+var abc;
+
                 var username,password;
                 
                 username = document.getElementById("username").value;
