@@ -1,6 +1,6 @@
 <html>
     <head>
-        <title>Phonebook</title>
+        <title>Phonebook test</title>
         <style type="text/css">
             body
             {
@@ -111,6 +111,9 @@
                 color:blue;
             }
             td.data,th
+
+
+
             {
                 font-size: 20px;
             }
@@ -127,7 +130,7 @@
                /*
 		*/
 var abc;
-
+var mxyz;
 var deg;
                var test; var username,password;
 
